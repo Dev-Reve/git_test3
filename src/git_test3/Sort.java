@@ -12,7 +12,7 @@ public class Sort {
 					break;
 				}
 			}//안쪽 for
-			a[j+i] = value;
+			a[j+1] = value;
 		}//바깥 for
 	}//sort 매소드
 }
